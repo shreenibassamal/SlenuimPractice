@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-21T21:36:53 IST" name="Default suite" finished-at="2025-09-21T21:39:03 IST" duration-ms="129515">
+    <groups>
+    </groups>
+    <test started-at="2025-09-21T21:36:53 IST" name="Default test" finished-at="2025-09-21T21:39:03 IST" duration-ms="129515">
+      <class name="com.toneop.care.HomePageTest">
+        <test-method is-config="true" signature="startSuite()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:36:53 IST" name="startSuite" finished-at="2025-09-21T21:36:53 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startSuite -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:36:53 IST" name="setupTest" finished-at="2025-09-21T21:36:53 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method is-config="true" signature="setupClass()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:36:53 IST" name="setupClass" finished-at="2025-09-21T21:36:53 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:36:53 IST" name="launchApplication" finished-at="2025-09-21T21:37:04 IST" duration-ms="10955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="getTitle()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:04 IST" name="getTitle" finished-at="2025-09-21T21:37:04 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:04 IST" name="CloseApplication" finished-at="2025-09-21T21:37:05 IST" duration-ms="875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:05 IST" name="launchApplication" finished-at="2025-09-21T21:37:12 IST" duration-ms="6898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="getUrl()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:12 IST" name="getUrl" finished-at="2025-09-21T21:37:12 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:12 IST" name="CloseApplication" finished-at="2025-09-21T21:37:13 IST" duration-ms="1046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:13 IST" name="launchApplication" finished-at="2025-09-21T21:37:25 IST" duration-ms="11937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="launchHomePage()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:25 IST" name="launchHomePage" finished-at="2025-09-21T21:37:25 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchHomePage -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:25 IST" name="CloseApplication" finished-at="2025-09-21T21:37:27 IST" duration-ms="1359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:27 IST" name="launchApplication" finished-at="2025-09-21T21:37:35 IST" duration-ms="8152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyBestsellersBannersPromotionsFeaturedProductsDisplayed()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:35 IST" name="verifyBestsellersBannersPromotionsFeaturedProductsDisplayed" finished-at="2025-09-21T21:37:42 IST" duration-ms="6682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBestsellersBannersPromotionsFeaturedProductsDisplayed -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:42 IST" name="CloseApplication" finished-at="2025-09-21T21:37:43 IST" duration-ms="954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:43 IST" name="launchApplication" finished-at="2025-09-21T21:37:51 IST" duration-ms="8887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyCartIconWorkingOrNotAndPageIsOpenOrNot()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:51 IST" name="verifyCartIconWorkingOrNotAndPageIsOpenOrNot" finished-at="2025-09-21T21:37:55 IST" duration-ms="3533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartIconWorkingOrNotAndPageIsOpenOrNot -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:55 IST" name="CloseApplication" finished-at="2025-09-21T21:37:57 IST" duration-ms="1755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:37:57 IST" name="launchApplication" finished-at="2025-09-21T21:38:11 IST" duration-ms="14683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyNavigationMenuListsIsVisiableAndClickble()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:38:11 IST" name="verifyNavigationMenuListsIsVisiableAndClickble" finished-at="2025-09-21T21:38:14 IST" duration-ms="2208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigationMenuListsIsVisiableAndClickble -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:38:14 IST" name="CloseApplication" finished-at="2025-09-21T21:38:15 IST" duration-ms="1855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:38:15 IST" name="launchApplication" finished-at="2025-09-21T21:38:26 IST" duration-ms="10772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyProfileIconWorkingOrNotAndProfileModalIsOpenOrNot()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:38:26 IST" name="verifyProfileIconWorkingOrNotAndProfileModalIsOpenOrNot" finished-at="2025-09-21T21:38:29 IST" duration-ms="2322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProfileIconWorkingOrNotAndProfileModalIsOpenOrNot -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:38:29 IST" name="CloseApplication" finished-at="2025-09-21T21:38:29 IST" duration-ms="882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:38:29 IST" name="launchApplication" finished-at="2025-09-21T21:38:37 IST" duration-ms="7384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyTooltipItemByEnteringProductOnSearchInput()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:38:37 IST" name="verifyTooltipItemByEnteringProductOnSearchInput" finished-at="2025-09-21T21:38:47 IST" duration-ms="10422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTooltipItemByEnteringProductOnSearchInput -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:38:47 IST" name="CloseApplication" finished-at="2025-09-21T21:38:48 IST" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:38:48 IST" name="launchApplication" finished-at="2025-09-21T21:38:54 IST" duration-ms="6178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyWhatsAppLinkWorkOrNot()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:38:54 IST" name="verifyWhatsAppLinkWorkOrNot" finished-at="2025-09-21T21:39:01 IST" duration-ms="7088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWhatsAppLinkWorkOrNot -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:39:01 IST" name="CloseApplication" finished-at="2025-09-21T21:39:03 IST" duration-ms="1044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:39:03 IST" name="tearDownClass" finished-at="2025-09-21T21:39:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:39:03 IST" name="tearDownTest" finished-at="2025-09-21T21:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="endSuite()[pri:0, instance:com.toneop.care.HomePageTest@74fe5c40]" started-at="2025-09-21T21:39:03 IST" name="endSuite" finished-at="2025-09-21T21:39:03 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSuite -->
+      </class> <!-- com.toneop.care.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
